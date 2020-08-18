@@ -1,0 +1,1 @@
+# serenity-springboot-code-coverage
